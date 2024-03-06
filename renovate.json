@@ -5,8 +5,8 @@
   ],
   "dependencyDashboard": true,
   "vulnerabilityAlerts": {
-    "enabled": true,
-    "label": "security",
-    "assignee": "dev-team"
+    "labels": ["security"],
+    "automerge": false,
+    "assignees": ["@vikas-gautam"]
   }
 }
