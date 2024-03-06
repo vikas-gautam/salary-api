@@ -7,7 +7,7 @@ COPY src/ src/
 
 RUN mvn clean package -DskipTests
 
-FROM alpine:3.18.0
+FROM alpine:3.19.1
 
 LABEL authors="Opstree Solution" \
       contact="opensource@opstree.com" \
