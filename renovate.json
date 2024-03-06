@@ -5,6 +5,7 @@
   ],
   "dependencyDashboard": true,
   "vulnerabilityAlerts": {
+    "enabled": true
     "labels": ["security"],
     "automerge": false,
     "assignees": ["@vikas-gautam"]
